@@ -3,4 +3,9 @@
 
     <string name="dummy_button">Dummy Button</string>
     <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="level_label">Level:</string>
+    <string name="score_label">Score:</string>
+    <string name="max_number">99</string>
+    <string name="play_game">play_game</string>
+    <string name="popping_pin">Popping Pin</string>
 </resources>
